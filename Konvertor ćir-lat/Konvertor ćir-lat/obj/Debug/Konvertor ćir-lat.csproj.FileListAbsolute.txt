@@ -1,0 +1,12 @@
+C:\Users\Aleksa\Desktop\Konvertor ćir-lat\Konvertor ćir-lat\bin\Debug\Konvertor ćir-lat.exe.config
+C:\Users\Aleksa\Desktop\Konvertor ćir-lat\Konvertor ćir-lat\bin\Debug\Konvertor ćir-lat.exe
+C:\Users\Aleksa\Desktop\Konvertor ćir-lat\Konvertor ćir-lat\bin\Debug\Konvertor ćir-lat.pdb
+C:\Users\Aleksa\Desktop\Konvertor ćir-lat\Konvertor ćir-lat\obj\Debug\Konvertor ćir-lat.csprojResolveAssemblyReference.cache
+C:\Users\Aleksa\Desktop\Konvertor ćir-lat\Konvertor ćir-lat\obj\Debug\Konvertor_ćir_lat.Form1.resources
+C:\Users\Aleksa\Desktop\Konvertor ćir-lat\Konvertor ćir-lat\obj\Debug\Konvertor_ćir_lat.Properties.Resources.resources
+C:\Users\Aleksa\Desktop\Konvertor ćir-lat\Konvertor ćir-lat\obj\Debug\Konvertor ćir-lat.csproj.GenerateResource.Cache
+C:\Users\Aleksa\Desktop\Konvertor ćir-lat\Konvertor ćir-lat\obj\Debug\Konvertor ćir-lat.exe
+C:\Users\Aleksa\Desktop\Konvertor ćir-lat\Konvertor ćir-lat\obj\Debug\Konvertor ćir-lat.pdb
+E:\FENCES SHORTCUT SRC\C#\Konvertor ćir-lat\Konvertor ćir-lat\bin\Debug\Konvertor ćir-lat.exe.config
+E:\FENCES SHORTCUT SRC\C#\Konvertor ćir-lat\Konvertor ćir-lat\obj\Debug\Konvertor ćir-lat.exe
+E:\FENCES SHORTCUT SRC\C#\Konvertor ćir-lat\Konvertor ćir-lat\obj\Debug\Konvertor ćir-lat.pdb
