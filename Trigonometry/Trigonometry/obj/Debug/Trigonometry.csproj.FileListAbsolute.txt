@@ -1,0 +1,21 @@
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Trigonometry\bin\Debug\Trigonometry.exe.config
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Trigonometry\bin\Debug\Trigonometry.exe
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Trigonometry\bin\Debug\Trigonometry.pdb
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Trigonometry\obj\Debug\Trigonometry.csprojResolveAssemblyReference.cache
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Trigonometry\obj\Debug\Trigonometry.Form1.resources
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Trigonometry\obj\Debug\Trigonometry.Properties.Resources.resources
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Trigonometry\obj\Debug\Trigonometry.csproj.GenerateResource.Cache
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Trigonometry\obj\Debug\Trigonometry.exe
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Trigonometry\obj\Debug\Trigonometry.pdb
+C:\Users\Aleksa\Desktop\Trigonometry\Trigonometry\bin\Debug\Trigonometry.exe.config
+C:\Users\Aleksa\Desktop\Trigonometry\Trigonometry\obj\Debug\Trigonometry.exe
+C:\Users\Aleksa\Desktop\Trigonometry\Trigonometry\obj\Debug\Trigonometry.pdb
+C:\Users\Aleksa\Desktop\Trigonometry\Trigonometry\bin\Debug\Trigonometry.exe
+C:\Users\Aleksa\Desktop\Trigonometry\Trigonometry\bin\Debug\Trigonometry.pdb
+C:\Users\Aleksa\Desktop\Trigonometry\Trigonometry\obj\Debug\Trigonometry.csprojResolveAssemblyReference.cache
+C:\Users\Aleksa\Desktop\Trigonometry\Trigonometry\obj\Debug\Trigonometry.Form1.resources
+C:\Users\Aleksa\Desktop\Trigonometry\Trigonometry\obj\Debug\Trigonometry.Properties.Resources.resources
+C:\Users\Aleksa\Desktop\Trigonometry\Trigonometry\obj\Debug\Trigonometry.csproj.GenerateResource.Cache
+E:\FENCES SHORTCUT SRC\C#\Trigonometry\Trigonometry\bin\Debug\Trigonometry.exe.config
+E:\FENCES SHORTCUT SRC\C#\Trigonometry\Trigonometry\obj\Debug\Trigonometry.exe
+E:\FENCES SHORTCUT SRC\C#\Trigonometry\Trigonometry\obj\Debug\Trigonometry.pdb
