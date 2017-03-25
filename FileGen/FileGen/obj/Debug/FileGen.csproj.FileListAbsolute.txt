@@ -1,0 +1,18 @@
+C:\Users\Aleksa\AppData\Local\Temporary Projects\FileGen\bin\Debug\FileGen.exe.config
+C:\Users\Aleksa\AppData\Local\Temporary Projects\FileGen\bin\Debug\FileGen.exe
+C:\Users\Aleksa\AppData\Local\Temporary Projects\FileGen\bin\Debug\FileGen.pdb
+C:\Users\Aleksa\AppData\Local\Temporary Projects\FileGen\obj\Debug\FileGen.csprojResolveAssemblyReference.cache
+C:\Users\Aleksa\AppData\Local\Temporary Projects\FileGen\obj\Debug\FileGen.Form1.resources
+C:\Users\Aleksa\AppData\Local\Temporary Projects\FileGen\obj\Debug\FileGen.Properties.Resources.resources
+C:\Users\Aleksa\AppData\Local\Temporary Projects\FileGen\obj\Debug\FileGen.csproj.GenerateResource.Cache
+C:\Users\Aleksa\AppData\Local\Temporary Projects\FileGen\obj\Debug\FileGen.exe
+C:\Users\Aleksa\AppData\Local\Temporary Projects\FileGen\obj\Debug\FileGen.pdb
+C:\Users\Aleksa\Desktop\FileGen\FileGen\bin\Debug\FileGen.exe.config
+C:\Users\Aleksa\Desktop\FileGen\FileGen\obj\Debug\FileGen.exe
+C:\Users\Aleksa\Desktop\FileGen\FileGen\obj\Debug\FileGen.pdb
+C:\Users\Aleksa\Desktop\FileGen\FileGen\bin\Debug\FileGen.exe
+C:\Users\Aleksa\Desktop\FileGen\FileGen\bin\Debug\FileGen.pdb
+C:\Users\Aleksa\Desktop\FileGen\FileGen\obj\Debug\FileGen.csprojResolveAssemblyReference.cache
+C:\Users\Aleksa\Desktop\FileGen\FileGen\obj\Debug\FileGen.Form1.resources
+C:\Users\Aleksa\Desktop\FileGen\FileGen\obj\Debug\FileGen.Properties.Resources.resources
+C:\Users\Aleksa\Desktop\FileGen\FileGen\obj\Debug\FileGen.csproj.GenerateResource.Cache
