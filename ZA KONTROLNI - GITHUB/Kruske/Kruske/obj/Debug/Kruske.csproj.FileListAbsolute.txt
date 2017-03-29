@@ -1,0 +1,12 @@
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Kruske\bin\Debug\Kruske.exe.config
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Kruske\bin\Debug\Kruske.exe
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Kruske\bin\Debug\Kruske.pdb
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Kruske\obj\Debug\Kruske.csprojResolveAssemblyReference.cache
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Kruske\obj\Debug\Kruske.Form1.resources
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Kruske\obj\Debug\Kruske.Properties.Resources.resources
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Kruske\obj\Debug\Kruske.csproj.GenerateResource.Cache
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Kruske\obj\Debug\Kruske.exe
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Kruske\obj\Debug\Kruske.pdb
+C:\Users\Aleksa\Desktop\Kruske\Kruske\bin\Debug\Kruske.exe.config
+C:\Users\Aleksa\Desktop\Kruske\Kruske\obj\Debug\Kruske.exe
+C:\Users\Aleksa\Desktop\Kruske\Kruske\obj\Debug\Kruske.pdb

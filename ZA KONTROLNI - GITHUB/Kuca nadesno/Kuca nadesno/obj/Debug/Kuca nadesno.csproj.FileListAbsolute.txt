@@ -1,0 +1,12 @@
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Kuca nadesno\bin\Debug\Kuca nadesno.exe.config
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Kuca nadesno\bin\Debug\Kuca nadesno.exe
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Kuca nadesno\bin\Debug\Kuca nadesno.pdb
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Kuca nadesno\obj\Debug\Kuca nadesno.csprojResolveAssemblyReference.cache
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Kuca nadesno\obj\Debug\Kuca_nadesno.Form1.resources
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Kuca nadesno\obj\Debug\Kuca_nadesno.Properties.Resources.resources
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Kuca nadesno\obj\Debug\Kuca nadesno.csproj.GenerateResource.Cache
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Kuca nadesno\obj\Debug\Kuca nadesno.exe
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Kuca nadesno\obj\Debug\Kuca nadesno.pdb
+C:\Users\Aleksa\Desktop\Kuca nadesno\Kuca nadesno\bin\Debug\Kuca nadesno.exe.config
+C:\Users\Aleksa\Desktop\Kuca nadesno\Kuca nadesno\obj\Debug\Kuca nadesno.exe
+C:\Users\Aleksa\Desktop\Kuca nadesno\Kuca nadesno\obj\Debug\Kuca nadesno.pdb
